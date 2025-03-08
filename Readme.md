@@ -1,20 +1,14 @@
 ## Project Proposal Report: Development of keystoneDB - A Custom Database Management System (DBMS)
 
----
-
 ### 1. Project Title
 
 **keystoneDB: A Custom Database Management System**
-
----
 
 ### 2. Introduction and Motivation
 
 Database Management Systems (DBMS) are critical software systems used extensively in almost every software application today. Understanding the internal workings of a DBMS, such as parsing SQL queries, executing commands, managing storage, and ensuring data integrity, is essential for computer science students and software developers.
 
 The motivation behind this project is to practically explore and implement core database concepts, compiler principles, and storage mechanisms from scratch. The project "keystoneDB" aims to provide a hands-on opportunity to deeply understand how databases work internally by designing and implementing a custom DBMS.
-
----
 
 ### 3. Project Objectives
 
@@ -38,8 +32,6 @@ The main objectives of this project are:
 
 - **Learning Objective:**  
   To enhance skills in compiler design (using Flex/Bison), visitor pattern implementation for expression evaluation, integration of third-party libraries (RocksDB), unit testing practices (googletest), and modern C++ development practices.
-
----
 
 ### 4. Detailed Methodology
 
@@ -71,8 +63,6 @@ The project will follow a structured methodology:
 #### Phase V: Documentation & Reporting
 - Prepare comprehensive documentation detailing system architecture, usage guidelines, implementation details, and testing results.
 
----
-
 ### 5. Tools and Technologies Used
 
 The following tools and technologies will be used in this project:
@@ -87,7 +77,6 @@ The following tools and technologies will be used in this project:
 | **googletest** | Unit testing framework |
 | **Git & GitHub** | Version control and collaboration |
 
----
 
 ### 6. Learning Outcomes
 
@@ -98,8 +87,6 @@ Upon completion of this project, the following learning outcomes will be achieve
 - Hands-on experience integrating persistent storage solutions like RocksDB into applications.
 - Improved proficiency in modern C++ development practices including modular design patterns, memory management techniques, unit testing methodologies using googletest framework.
 - Enhanced ability to manage complex software projects through structured planning, version control systems like Git/GitHub, systematic testing strategies.
-
----
 
 ### 7. Timeline & Milestones
 
@@ -115,8 +102,6 @@ The following timeline was followed during the project's execution:
 | Week 3 | Interactive shell implementation; multi-line input support; history management |
 | Week 4 | Unit testing with googletest; integration testing; debugging & fixes |
 | Week 4 | Final documentation preparation; submission readiness |
-
----
 
 ### 8. Deliverables
 
@@ -136,12 +121,8 @@ At the end of this project, the following deliverables were produced:
    - Unit tests covering individual components
    - Integration tests validating overall functionality
 
----
-
 ### 9. Conclusion
 
 This project provided significant practical experience in database system internals, compiler principles implementation using Flex/Bison tools, visitor pattern-based execution logic design, integration with persistent storage solutions like RocksDB, modern C++ programming practices, systematic testing strategies using googletest framework.
 
 The successful completion of "keystoneDB" demonstrates comprehensive understanding of DBMS concepts along with valuable hands-on experience beneficial for future academic or professional endeavors in software engineering or database technology fields.
-
----
