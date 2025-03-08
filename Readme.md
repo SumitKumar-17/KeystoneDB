@@ -1,10 +1,10 @@
-## Project Proposal Report: Development of KeystoneDB - A Custom Database Management System (DBMS)
+## Project Proposal Report: Development of keystoneDB - A Custom Database Management System (DBMS)
 
 ---
 
 ### 1. Project Title
 
-**KeystoneDB: A Custom Database Management System**
+**keystoneDB: A Custom Database Management System**
 
 ---
 
@@ -12,7 +12,7 @@
 
 Database Management Systems (DBMS) are critical software systems used extensively in almost every software application today. Understanding the internal workings of a DBMS, such as parsing SQL queries, executing commands, managing storage, and ensuring data integrity, is essential for computer science students and software developers.
 
-The motivation behind this project is to practically explore and implement core database concepts, compiler principles, and storage mechanisms from scratch. The project "KeystoneDB" aims to provide a hands-on opportunity to deeply understand how databases work internally by designing and implementing a custom DBMS.
+The motivation behind this project is to practically explore and implement core database concepts, compiler principles, and storage mechanisms from scratch. The project "keystoneDB" aims to provide a hands-on opportunity to deeply understand how databases work internally by designing and implementing a custom DBMS.
 
 ---
 
@@ -122,7 +122,7 @@ The following timeline was followed during the project's execution:
 
 At the end of this project, the following deliverables were produced:
 
-1. **Fully Functional DBMS ("KeystoneDB")**
+1. **Fully Functional DBMS ("keystoneDB")**
    - Supports parsing/execution of subset SQL commands
    - Persistent data storage via RocksDB backend
    - Interactive shell with command history & multi-line support
@@ -146,6 +146,6 @@ At the end of this project, the following deliverables were produced:
 
 This project provided significant practical experience in database system internals, compiler principles implementation using Flex/Bison tools, visitor pattern-based execution logic design, integration with persistent storage solutions like RocksDB, modern C++ programming practices, systematic testing strategies using googletest framework.
 
-The successful completion of "KeystoneDB" demonstrates comprehensive understanding of DBMS concepts along with valuable hands-on experience beneficial for future academic or professional endeavors in software engineering or database technology fields.
+The successful completion of "keystoneDB" demonstrates comprehensive understanding of DBMS concepts along with valuable hands-on experience beneficial for future academic or professional endeavors in software engineering or database technology fields.
 
 ---
