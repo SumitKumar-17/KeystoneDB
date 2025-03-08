@@ -108,13 +108,13 @@ The following timeline was followed during the project's execution:
 | Week(s) | Activities / Milestones |
 |---------|-------------------------|
 | Week 1 | Initial research on DBMS architectures; study Flex/Bison; RocksDB exploration |
-| Week 2 | System architecture design; IR structure definition; parser design |
-| Week 3 | Implementation of lexical analyzer (`sql.l`) & syntax analyzer (`sql.y`) |
-| Week 4 | Development of IR classes; executor logic implementation |
-| Week 5 | Integration with RocksDB; expression evaluation via visitor pattern |
-| Week 6 | Interactive shell implementation; multi-line input support; history management |
-| Week 7 | Unit testing with googletest; integration testing; debugging & fixes |
-| Week 8 | Final documentation preparation; submission readiness |
+| Week 1 | System architecture design; IR structure definition; parser design |
+| Week 2 | Implementation of lexical analyzer (`sql.l`) & syntax analyzer (`sql.y`) |
+| Week 2 | Development of IR classes; executor logic implementation |
+| Week 3 | Integration with RocksDB; expression evaluation via visitor pattern |
+| Week 3 | Interactive shell implementation; multi-line input support; history management |
+| Week 4 | Unit testing with googletest; integration testing; debugging & fixes |
+| Week 4 | Final documentation preparation; submission readiness |
 
 ---
 
@@ -135,10 +135,6 @@ At the end of this project, the following deliverables were produced:
 3. **Testing Suite**
    - Unit tests covering individual components
    - Integration tests validating overall functionality
-
-4. **Project Source Code**
-   - Organized clearly into modules/directories
-   - Hosted on GitHub with clear commit history
 
 ---
 
